@@ -51,5 +51,10 @@ The current quiz content focuses on **Andhra Pradesh**, covering topics such as:
 
 This makes the quiz both educational and localized, serving as a great example of thematic content delivery in frontend projects.
 
+#OUTPUT
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/cc2867ad-5ea0-4b5b-8972-3f4eb266c494" />
+
+
 
 
